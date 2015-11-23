@@ -31,7 +31,7 @@ setup(
     license='BSD License',
     author='Samuele Santi',
     author_email='',
-    description='',
+    description='Describe your directory structure in yaml to get quick shortcuts.',
     long_description=longdesc,
     install_requires=install_requires,
     entry_points=entry_points,
